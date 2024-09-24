@@ -29,13 +29,14 @@ Bagian ini merupakan isi konten utama, memunculkan Tulisan Login Page sebagai He
 
 ![image](https://github.com/user-attachments/assets/93ed9fb4-7406-4fe5-b59b-a7d6dade04fb)
 
-Bagian ini digunakan untuk menjalankan logika pengecekan input yang masuk, jika inputan salah maka akan muncul :
+Bagian ini digunakan untuk menjalankan logika pengecekan input yang masuk, gambar diatas jika inputan salah
 
 ![image](https://github.com/user-attachments/assets/3344a09b-1570-42bf-89a4-a04f0df51cfd)
 
-Jika inputan benar maka akan muncul :
+gambar diatas Jika inputan benar
 
 ![image](https://github.com/user-attachments/assets/1a916c40-f299-4331-b197-8a4e2ed39d0e)
+
 
 
 
